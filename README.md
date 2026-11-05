@@ -1,15 +1,11 @@
 <!-- Generated from: https://techwithgen.github.io/profile-studio/ -->
 
 <p align="center">
-  <div style="pointer-events: none;">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=602&text=Hey!%20I'm%20Harshil" alt="Hey! I'm Harshil" />
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=602&text=Hey!%20I'm%20Harshil" alt="Hey! I'm Harshil" />
 </p>
 
 <p align="center">
-  <div style="pointer-events: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=360&height=44&lines=Building%20Today;Conquering%20Tommorow" alt="Typing headlines" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=360&height=44&lines=Building%20Today;Conquering%20Tommorow" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
