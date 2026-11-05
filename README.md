@@ -1,4 +1,4 @@
-{/*Generated from: https://techwithgen.github.io/profile-studio/*/}
+<!-- Generated from: https://techwithgen.github.io/profile-studio/ -->
 
 <p align="center">
   <a>
